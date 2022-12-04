@@ -110,8 +110,8 @@ hr{
 .author p a.name{
   color: white;
   font-size: 16px;
-  margin-left: 5px;
   font-weight: 300;
+  text-decoration: none;
 }
 .author p a.name:hover{
   color: aqua;
